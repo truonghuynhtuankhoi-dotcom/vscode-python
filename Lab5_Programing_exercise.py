@@ -17,6 +17,7 @@ def main():
         elif dice1<dice2:
             print("Die 2 wins")
         else:
+            print("itsad")
             print("It's a tie")
         again=input("Do you want to roll them again. Enter y/Y to roll again: ")
 
