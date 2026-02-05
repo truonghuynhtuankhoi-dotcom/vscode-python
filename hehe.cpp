@@ -5,7 +5,7 @@ int main() {
     double propertyValue, taxRate;
     const double PROPERTY_TAX = 0.60;
 
-    cout << "Enter the actual property value: ";
+    cout << "Enter the actual property value: \a";
     cin >> propertyValue;
 
     cout << "Enter the tax rate per $100 of assessed value: ";
